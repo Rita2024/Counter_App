@@ -33,7 +33,7 @@ Counter_App/
 
 ## Screenshots
 
-![Counter_App\image\Counter_App.png](path/to/screenshot.png)
+![image/Counter_App.png](path/to/screenshot.png)
 
 ## Future Enhancements
 
